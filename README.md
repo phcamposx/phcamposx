@@ -4,6 +4,8 @@
 - 🌎 Atuo como colaborador STEM na ONG Brazil Flying Labs, organização dedicada a promover o uso de drones e inteligência artificial para transformar vidas e comunidades.
 - 💻 Skills: Python (Scikit-learn, Pandas, OpenCV, YOLO, etc...), C (Programação de MicroControladores STM32) e MySQL (DDL. DML e Joins).
 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 ## Portfólio 📚
 ### Ciência de Dados 📊
 - Confira meu portfólio de ciência de dados. Lá, você encontrará casos resolvidos envolvendo classificação, regressão e deteccção de objetos por meio de aprendizado de máquina, além de análise exploratória de dados.
