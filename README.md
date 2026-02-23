@@ -6,11 +6,6 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## Portfólio 📚
-### Ciência de Dados 📊
-- Confira meu portfólio de ciência de dados. Lá, você encontrará casos resolvidos envolvendo classificação, regressão e deteccção de objetos por meio de aprendizado de máquina, além de análise exploratória de dados.
-- [Clique Aqui](google.com)
-
 ## Contatos 🔗
 <div> 
   <a href = "mailto:phm.silvacampos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
